@@ -21,3 +21,7 @@ Cell | Cell
 * Item 2
   * Item 2a
   * Item 2b
+
+##### Links
+http://github.com - automatic!
+[GitHub](http://github.com)
