@@ -4,8 +4,8 @@ This repository is not associated with an organization and has no personal agend
 
 ## Master List (Raw)
 
-Project Name | Brief Description | www
----------------------- | ------------- | -------------
+Project Name &nbsp; &nbsp; &nbsp; &nbsp; | Brief Description | www
+------------ | ------------- | -------------
 ZIM | ZIM is an open source JavaScript Framework for the HTML Canvas. | [website](https://zimjs.com)
 OSCAR EMR | OSCAR EMR is an open source electronic medical record created by McMaster University’s Department of Family Medicine in 2001. | [website](https://oscar-emr.com)
 MyOSCAR | This project is personal health record and as evolved into [KindredPHR](https://kindredphr.com/v2/launch.jsp) but is still available as an open source download. | [website](https://sourceforge.net/projects/myoscar)
