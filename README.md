@@ -8,3 +8,10 @@ text
 text
 
 
+#### Table Example
+
+First Header | Second Header
+------------ | -------------
+Cell | Cell
+Cell | Cell
+
